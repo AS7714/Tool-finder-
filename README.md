@@ -1,10 +1,10 @@
-# JOA AI Disclosure Scanner
+ AI Disclosure Scanner
 
 A Python tool that scans PDF papers across ScienceDirect subfolders, extracts article history dates and AI declaration status, and generates a formatted Excel report.
 
 ## Features
 
-- Scans all PDF files in ScienceDirect paper folders
+- Scans all PDF files papers
 - Extracts publication dates from Article History sections
 - Detects AI declarations using multi-tier keyword matching
 - Generates formatted Excel reports with color-coded results
