@@ -41,7 +41,7 @@ except ImportError:
 # ─────────────────────────────────────────────
 # CONFIGURATION — edit ROOT_FOLDER if needed
 # ─────────────────────────────────────────────
-ROOT_FOLDER = r"\\researchfiles.coe.drexel.edu\data\BIOMED IRC\Research\Aslani, Shabnam\AI used in papers or not\ScienceDirect\2026"
+ROOT_FOLDER = r""
 OUTPUT_FILE = os.path.join(ROOT_FOLDER, "AI_Disclosure_Results.xlsx")
 
 # ─────────────────────────────────────────────
